@@ -16,7 +16,7 @@ pipeline {
         }
       }
 
-         stage("Deploy application") { 
+         stage("Deploy application vamsi new ") { 
          steps { 
            sh 'echo "deploying application..."'
          }
